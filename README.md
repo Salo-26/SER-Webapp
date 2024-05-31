@@ -69,13 +69,6 @@ A web application for recognizing emotions from speech using a TensorFlow Lite m
 - **log_file(txt=None)**: Logs file processing details.
 - **save_audio(file)**: Saves uploaded audio files and manages storage by clearing old files.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
